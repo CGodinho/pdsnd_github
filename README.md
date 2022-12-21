@@ -7,7 +7,9 @@ Solution created in 09-DEZ-2022.
 Bike Share Analysis.
 
 ### Description
-The project solves the Bike Share challenge for the Programming for Data Science with Python course, from Udacity.  
+The project solves the Bike Share challenge for the Programming for Data Science with Python course, from Udacity.
+It provides a solution in Python with Pandas.
+
 
 ### Files used
 bykeshare_2.py - Python implementation for the solution.
