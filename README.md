@@ -14,4 +14,4 @@ bykeshare_2.py - Python implementation for the solution.
 README.md - this file.
 
 ### Credits
-Based on suggestions from Audicity.
+Based on suggestions from Audicity. A basic framework has been provided as an example.
