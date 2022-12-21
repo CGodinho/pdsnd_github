@@ -1,6 +1,7 @@
 """
 This python script implements the solution for the Explore US Bikeshare Data problem in
 Udacity course programming for data science with Python.
+It uses pandas an the underlying numpy for data processing.
 """
 
 import time
